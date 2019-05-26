@@ -1,0 +1,2 @@
+# Neural-Style-Transfer
+This is an implementation of neural style transfer, which I wrote to generate a Van Gogh styled portrait of my friend, Eric, to give him as his "going away" present. This is motivated by post " Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution" . Theoretical basics were covered from Coursera lectures and Gatys et al.(2015) paper. Application using tensorflow and keras was done by referring to the referred post. 
